@@ -2,17 +2,17 @@
 
 An interactive personal profile application built with React featuring a modern and smooth user interface.
 
-## ✨ Features
+## Features
 
-- 🎨 **Modern Design**: Beautiful user interface using Chakra UI
-- ⚡ **High Performance**: Built on React 18 with performance optimizations
-- 📱 **Fully Responsive**: Responsive design that works on all devices
-- 🎭 **Smooth Animations**: Professional animations using Framer Motion
-- 📝 **Reliable Forms**: Data validation using Formik and Yup
-- 🎯 **Professional Icons**: Beautiful FontAwesome icons
-- 🎨 **Custom Styling**: CSS-in-JS styling with Emotion
+-  **Modern Design**: Beautiful user interface using Chakra UI
+-  **High Performance**: Built on React 18 with performance optimizations
+-  **Fully Responsive**: Responsive design that works on all devices
+-  **Smooth Animations**: Professional animations using Framer Motion
+-  **Reliable Forms**: Data validation using Formik and Yup
+-  **Professional Icons**: Beautiful FontAwesome icons
+-  **Custom Styling**: CSS-in-JS styling with Emotion
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 
